@@ -5,6 +5,7 @@ import {Page} from "./../components/Page";
 import {setYear} from "../actions/PageActions";
 
 import './App.css';
+import './../index.css'
 
 class App extends Component{
   render() {
